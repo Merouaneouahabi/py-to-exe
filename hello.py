@@ -7,17 +7,17 @@ exit = input("t7ab Don Omar? OUI/NO ").lower()
 print()
 
 if exit == "no":
-  print("kont 3labali bli mat7aboch ☹️ ")
+  print("kont 3labali bli mat7aboch 'T_T' ")
   print()
 
 elif exit == "oui":
-  print("Chikoor nta! 😍 ")
+  print("Chikoor nta! '^_^' ")
   print()
 
 else:
-  print("tatmnyak bro7ak? 9olna OUI/NO 😑 💢 ")
+  print("tatmnyak bro7ak? 9olna OUI/NO 'X_X' ")
 
-don_omar = input("hak astghal shbé : 🤪 🎶 dir ENTER brk tkhafch ")
+don_omar = input("hak astghal shbé :  'n_n'  dir ENTER brk tkhafch ")
 print(don_omar)
 
 import webbrowser
