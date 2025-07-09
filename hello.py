@@ -8,4 +8,4 @@ print(exit)
 import webbrowser
 
 # Open a website in the default browser (which could be Chrome)
-webbrowser.open("https://www.redtube.com")
+webbrowser.open("https://www.youtube.com/watch?v=HgCd6K8N61o")
