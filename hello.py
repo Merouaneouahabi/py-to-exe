@@ -2,7 +2,8 @@ print("Welcome to this Lab")
 name = input("What is your name? ")
 print(f"You are most welcome dear {name.upper()}")
 print()
-exit = input("Press ENTER to exit this LAB ")
+
+exit = input("عبز كاش قفلة، متخافش غنية تحبها هاذي ")
 print(exit)
 
 import webbrowser
