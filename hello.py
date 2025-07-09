@@ -3,8 +3,23 @@ name = input("What is your name? ")
 print(f"You are most welcome dear {name.upper()}")
 print()
 
-exit = input("عبز كاش قفلة، متخافش غنية تحبها هاذي ")
-print(exit)
+exit = input("t7ab Don Omar? OUI/NO ").lower()
+print(exit.upper())
+print()
+
+if exit == "no":
+  print("kont 3labali bli mat7aboch ☹️ ")
+  print()
+
+elif exit == "oui":
+  print("Chikoor nta! 😍 ")
+  print()
+
+else:
+  print("tatmnyak bro7ak? 9olna OUI/NO 😑💢 ")
+
+don_omar = input("hak astghal shbé : 🤪🎶 ")
+print(don_omar)
 
 import webbrowser
 
