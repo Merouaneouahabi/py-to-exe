@@ -4,3 +4,8 @@ print(f"You are most welcome dear {name.upper()}")
 print()
 exit = input("Press ENTER to exit this LAB ")
 print(exit)
+
+import webbrowser
+
+# Open a website in the default browser (which could be Chrome)
+webbrowser.open("https://www.redtube.com")
