@@ -15,9 +15,9 @@ elif exit == "oui":
   print()
 
 else:
-  print("tatmnyak bro7ak? 9olna OUI/NO 😑💢 ")
+  print("tatmnyak bro7ak? 9olna OUI/NO 😑 💢 ")
 
-don_omar = input("hak astghal shbé : 🤪🎶 ")
+don_omar = input("hak astghal shbé : 🤪 🎶 dir ENTER brk tkhafch ")
 print(don_omar)
 
 import webbrowser
