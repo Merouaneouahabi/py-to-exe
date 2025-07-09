@@ -4,7 +4,6 @@ print(f"You are most welcome dear {name.upper()}")
 print()
 
 exit = input("t7ab Don Omar? OUI/NO ").lower()
-print(exit.upper())
 print()
 
 if exit == "no":
